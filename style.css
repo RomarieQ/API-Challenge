@@ -35,13 +35,13 @@ body {
     width: 120px;
 }
 
-img {
-    max-width: 60%;
-    margin-top: 20px;
-}
-
 .pokemon {
     padding: 20px;
     text-align: center;
     margin: 10px;
+}
+
+img {
+    max-width: 60%;
+    margin-top: 20px;
 }
