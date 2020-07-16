@@ -32,6 +32,7 @@ function createPokemonLayout(pokemon) {
         </div>
         
     `;
+    
     pokemonElement.innerHTML = pokemonInnerHTML; 
        
     

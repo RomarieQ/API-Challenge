@@ -21,11 +21,6 @@ body {
     flex-wrap: wrap;
 }
 
-.pokemon .img-container {
-    margin-top: 20px;
-    height: 120px;
-    width: 120px;
-}
 
 .title {
     font-family: "Pokemon Solid";
@@ -44,4 +39,10 @@ body {
 img {
     max-width: 60%;
     margin-top: 20px;
+}
+
+.pokemon .img-container {
+    margin-top: 20px;
+    height: 120px;
+    width: 120px;
 }
