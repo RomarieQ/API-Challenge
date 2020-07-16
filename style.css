@@ -12,14 +12,6 @@ body {
     font-weight: bold;
 }
 
-.title {
-    font-family: "Pokemon Solid";
-    color: #003A70;
-    font-size: 100px;
-    letter-spacing: 10px;
-    text-align: center;
-}
-
 .pokemon-container {
     display: flex;
     align-items: space-between;
@@ -27,6 +19,14 @@ body {
     margin: 0 auto;
     max-width: 1200px;
     flex-wrap: wrap;
+}
+
+.title {
+    font-family: "Pokemon Solid";
+    color: #003A70;
+    font-size: 100px;
+    letter-spacing: 10px;
+    text-align: center;
 }
 
 .pokemon .img-container {

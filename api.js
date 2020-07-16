@@ -33,9 +33,7 @@ function createPokemonLayout(pokemon) {
         
     `;
 
-    pokemonElement.innerHTML = pokemonInnerHTML;
-
-    
+    pokemonElement.innerHTML = pokemonInnerHTML;    
     
     pokemon_container.appendChild(pokemonElement);
 }
